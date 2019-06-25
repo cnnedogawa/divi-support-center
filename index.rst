@@ -1,0 +1,5 @@
+ At Elegant Themes, there is nothing we consider more important than providing the best level of support possible to our community. But let’s be honest, it’s not easy. It’s especially difficult when dealing with a customer base of over 500,000 people that ask us thousands and thousands of questions every single day. Behind the scenes, we have been working extremely hard to improve our support system and the way we interact with customers. At scale, every little improvement we make can goes a long way, and often times it’s the little things that cause the most frustration.
+
+Recently we asked ourselves: What can we do outside of the support chat system itself to improve the way we interact with customers and remove the barriers that often cause frustration during support chats? The answer was the Divi Support Center, a new support area within Divi that allows customers to interface with our support system more directly and gives our support team the tools they need to quickly get to the heart of any problem. When it all comes together, it’s a wonderful thing.
+
+Check out more details for Divi Support Center: https://artsnet.org/divi-support-center/
