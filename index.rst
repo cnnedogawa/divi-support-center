@@ -2,4 +2,4 @@
 
 Recently we asked ourselves: What can we do outside of the support chat system itself to improve the way we interact with customers and remove the barriers that often cause frustration during support chats? The answer was the Divi Support Center, a new support area within Divi that allows customers to interface with our support system more directly and gives our support team the tools they need to quickly get to the heart of any problem. When it all comes together, it’s a wonderful thing.
 
-Check out more details for Divi Support Center: https://artsnet.org/divi-support-center/
+Check out more details for Divi Support Center: http://bestwordpressthemes2020.com/divi-support-center/
